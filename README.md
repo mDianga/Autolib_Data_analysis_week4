@@ -1,6 +1,6 @@
 # Autolib_Data_analysis_week4
 This repository for the analysis of the Autolib an electric car sharing company that is seeking to establish the stations operation in different products.
-1. Business Understanding
+Business Understanding
 The Autolib company has been a key and the major stakeholder in the electric car hiring sector of the economy. But due to competition they have now to step up and just up their game to achieve the desired milestone
 Business background 
 Autolib has its outlets in many cities in the region of operation. The company is managed centrally frome Paris and has station managers in specific stations.
