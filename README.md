@@ -1,4 +1,6 @@
-Autolib_Data_analysis_week4
+Data Report on  the Autolib electric car- sharing company to analyse the usage and stations.
+Introduction 
+
 This project is a part of the Data Science Prep at Moringa School.
 Report objective
 The Autolib company has seen a drastic increase in the level of demand on the electric car sharing company for the past few years of establishment. There has been increased demand for the different car types and brandings that they have offered-the bluecar, the Utilib and the Utilib 1.4 brands. The market share has been shrinking due to the entry of other players into the same business space.This has necessitated the need to analyse and come up with the best business strategy that will give Autolib the competitive advantage in the market. The main aim of this data report is to manipulate the data that has been selected and best suits. 
